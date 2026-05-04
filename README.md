@@ -2,13 +2,6 @@
 > **Empowering developers with curated programming courses & resources**  
 > Responsive • Accessible • Ocean-themed • Static HTML/CSS/JS
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-netlify-badge/deploy-status)](https://coursecatalystapp.netlify.app/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-![GitHub Repo stars](https://img.shields.io/github/stars/eswarsaikiran15/coursecatalyst?style=social)
-
-🔗 **Live Demo:** [coursecatalystapp.netlify.app](https://coursecatalystapp.netlify.app/)
-
----
 
 ## 📖 Table of Contents
 - [✨ Features](#-features)
