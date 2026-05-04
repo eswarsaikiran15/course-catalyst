@@ -2,6 +2,7 @@
 > **Empowering developers with curated programming courses & resources**  
 > Responsive • Accessible • Ocean-themed • Static HTML/CSS/JS
 
+**live demo** : https://eswarsaikiran15.github.io/course-catalyst/
 
 ## 📖 Table of Contents
 - [✨ Features](#-features)
